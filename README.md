@@ -1,4 +1,4 @@
-# Analyzing outdoor lists data and championship data for Big Ten Men's Pole Vault. 
+## Analyzing outdoor lists and championship data for Big Ten Men's Pole Vault. 
 
 ![big_ten_over_time](https://github.com/user-attachments/assets/f220ebfb-6acf-4061-869f-127a585eb551)
 
