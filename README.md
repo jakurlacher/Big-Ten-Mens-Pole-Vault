@@ -5,6 +5,9 @@
 
 ![boxplot_by_year](https://github.com/user-attachments/assets/e739c986-6cf5-46b5-bef9-bf00330e4bfc)
 
+![NCAA_plot](https://github.com/user-attachments/assets/dcd9d067-3f3e-49b5-94b2-56c10d3c60b5)
+
+
 ## File order is:
 
 
@@ -12,3 +15,4 @@
 ### 2. improvenshow
 ### 3. chancenshow
 ### 4. plotnshow
+### Bonus: NCAA_plot
